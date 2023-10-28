@@ -1,0 +1,10 @@
+{
+    "announce": false,
+    "bind": "0.0.0.0",
+    "csharp": "disabled",
+    "gamemode": "freeroam",
+    "maxplayers": 70,
+    "name": "GidraDM | Public",
+    "port": 26017,
+    "stream-distance": 500
+}
